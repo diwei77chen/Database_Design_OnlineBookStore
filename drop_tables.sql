@@ -1,0 +1,16 @@
+DROP TABLE CartItems;
+DROP TABLE OrderedItems;
+DROP TABLE States;
+DROP TABLE Privileges;
+DROP TABLE AuthoredBy;
+DROP TABLE Sessions;
+DROP TABLE Authors;
+DROP TABLE EditedBy;
+DROP TABLE Editors;
+DROP TABLE Pictures;
+DROP TABLE Items;
+DROP TABLE Users;
+DROP TABLE  EntityStore;
+DROP TABLE  GraphStore;
+DROP TABLE  PageVisited;
+DROP TABLE  Users;
